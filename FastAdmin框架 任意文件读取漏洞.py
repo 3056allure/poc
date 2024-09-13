@@ -21,7 +21,7 @@ def banner():
                             ░                       
                                                                                                                     
                                 version:1.1.0                     
-                                author:Hardog
+                                author:lanan
 """
     print(test)
 
