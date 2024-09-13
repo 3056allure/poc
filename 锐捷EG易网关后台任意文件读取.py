@@ -13,7 +13,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 def header():
     print('\033[32m!***********************************************!\033[0m')
     print('\033[32m!description:!锐捷EG易网关后台任意文件读取      !\033[0m')
-    print('\033[32m!             Author:Fly_Wuhoo                  !\033[0m')
+    print('\033[32m!             Author:lanan                  !\033[0m')
     print('\033[32m!***********************************************!\033[0m')
 
 
